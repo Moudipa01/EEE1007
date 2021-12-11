@@ -1,5 +1,8 @@
 # EEE1007
 Image Denoising Using AutoEncoders
+
+For the enhancement of images and the extraction of relevant information from them, image processing techniques are widely utilised in the fields of sciences and computer vision. The elimination of various types of noise from images is a crucial step in image processing. During the storage, transmission, or acquisition of photographs, noise might appear in the image.If a model achieves both picture preservation and noise removal, it is considered a satisfactory de-noising model. Gaussian, salt and pepper, Speckle, and other types of noise can be found in an image. A model that can denoise several types of noises is seen to be superior to others.In this paper, we provide an autoencoder-based model for removing various types of noise from pictures. We used Gaussian noise, loss function MSE data, Optimize Adam to denoise the images.
+
 ## Contributors:
 > Moudipa Jana - https://github.com/Moudipa01
 
