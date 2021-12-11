@@ -63,4 +63,17 @@ files.upload()
  ```python
  !unzip cat-and-dog.zip
  ```
+ 
+ ## Output:
+ ### Original Image:
+ ![image](https://user-images.githubusercontent.com/74910213/145670922-29bbc5c4-0809-43b4-9585-4693cce14e9c.png)
+
+### Recontructed Image:
+![image](https://user-images.githubusercontent.com/74910213/145670954-79c22a6e-d7f5-4c51-bc1f-fe65dd99cc64.png)
+
+## The Accuracy of Project: 
+![image](https://user-images.githubusercontent.com/74910213/145670994-704d347a-cfb4-4053-bb1c-93dd09534ae6.png)
+
+ 
+
    
